@@ -1,0 +1,4 @@
+d:\Users\Студент\Downloads\203\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+d:\Users\Студент\Downloads\203\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+d:\Users\Студент\Downloads\203\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.Cache
+d:\Users\Студент\Downloads\203\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
